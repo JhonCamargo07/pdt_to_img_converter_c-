@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "r+f6AcNUYr4mVgQXVsVgzdOaCfxgIFt9gwOUPrP+Wkv/qoy10esXhD7g1FehAw+MM0B+ddSj3vgRwLUe8+OSFQ==",
+  "success": true,
+  "projectFilePath": "C:\\cursos\\C#\\PDF_TO_IMG_CONVERTER\\PDF_TO_IMG_CONVERTER.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhona\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\jhona\\.nuget\\packages\\spire.pdf\\9.4.12\\spire.pdf.9.4.12.nupkg.sha512",
+    "C:\\Users\\jhona\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\jhona\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\jhona\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
